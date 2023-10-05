@@ -9,7 +9,7 @@ def is_palindrome(str):
     return True
 
 def main():
-    str = "racecar"
+    str = "hello"
     result = is_palindrome(str)
     return print(result)
 
